@@ -1,0 +1,6 @@
+---
+applications:
+- name: hsr-hello-world
+  memory: 128M
+  instances: 1
+  buildpack: nodejs_buildpack
