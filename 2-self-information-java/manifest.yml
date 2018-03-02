@@ -1,0 +1,6 @@
+---
+applications:
+- name: hsr-self-information
+  memory: 128M
+  instances: 1
+  buildpack: java_buildpack
