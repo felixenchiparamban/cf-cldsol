@@ -1,0 +1,1 @@
+docker run -v ~//home/tkcodes/dev/github/cf-cloudsol/2-self-information-java/app.war:/usr/local/tomcat/webapps/myapp.war -it -p 8080:8080 tomcat

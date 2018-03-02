@@ -1,0 +1,8 @@
+---
+applications:
+- name: hsr-self-information
+  memory: 600M
+  instances: 1
+  buildpack: java_buildpack
+  # path: target/self-information-1.0.0.war
+  path: test.jar

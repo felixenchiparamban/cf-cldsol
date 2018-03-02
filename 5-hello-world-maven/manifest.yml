@@ -1,0 +1,8 @@
+---
+applications:
+- name: tk-self-information
+  memory: 1G
+  instances: 1
+  buildpack: java_buildpack
+  # path: target/self-information-1.0.0.war
+  path: target/self-information.war
